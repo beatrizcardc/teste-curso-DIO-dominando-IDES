@@ -24,7 +24,7 @@ public class Calculadora {
 		System.out.println(multiplicacao);
 		System.out.println(divisao);
 		
-		
+		scan.close();
 
 	}
 	
